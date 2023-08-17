@@ -1,0 +1,16 @@
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+}
+
+.galeri{
+    background-color: f2f2f2;
+
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
